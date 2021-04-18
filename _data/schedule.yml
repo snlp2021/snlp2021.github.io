@@ -1,41 +1,41 @@
 - week: "01"
   dates:
     Apr 19:
-      topic: TBA
+      topic: No class
     Apr 21:
-      topic: TBA
+      topic: Introduction, organization
     Apr 23:
-      topic: TBA
+      topic: Math preliminaries
 - week: "02"
   dates:
     Apr 26:
-      topic: TBA
+      topic: Probability thory
     Apr 28:
-      topic: TBA
+      topic: Information thory
     Apr 30:
-      topic: TBA
+      topic: Machine learning intro
 - week: "03"
   dates:
     May 03:
-      topic: TBA
+      topic: ML intro
     May 05:
-      topic: TBA
+      topic: Classification
     May 07:
       topic: TBA
 - week: "04"
   dates:
     May 10:
-      topic: TBA
+      topic: Classification
     May 12:
-      topic: TBA
+      topic: ML evaluation
     May 14:
       topic: TBA
 - week: "05"
   dates:
     May 17:
-      topic: TBA
+      topic: ML evaluation
     May 19:
-      topic: TBA
+      topic: Interim sumamry
     May 21:
       topic: TBA
 - week: ""
@@ -46,72 +46,72 @@
 - week: "06"
   dates:
     May 31:
-      topic: TBA
+      topic: Artificial Neural Networks
     Jun 02:
-      topic: TBA
+      topic: ANNs
     Jun 04:
       topic: TBA
 - week: "07"
   dates:
     Jun 07:
-      topic: TBA
+      topic: Unsupervised ML
     Jun 09:
-      topic: TBA
+      topic: Unsupervised ML
     Jun 11:
       topic: TBA
 - week: "08"
   dates:
     Jun 14:
-      topic: TBA
+      topic: Dense vector representations
     Jun 16:
-      topic: TBA
+      topic: Sequence learning
     Jun 18:
       topic: TBA
 - week: "09"
   dates:
     Jun 21:
-      topic: TBA
+      topic: Sequence learning
     Jun 23:
-      topic: TBA
+      topic: Sequential ANNs
     Jun 25:
       topic: TBA
 - week: "10"
   dates:
     Jun 28:
-      topic: TBA
+      topic: Sequential ANNs
     Jun 30:
-      topic: TBA
+      topic: Language models
     Jul 02:
       topic: TBA
 - week: "11"
   dates:
     Jul 05:
-      topic: TBA
+      topic: Neural language models
     Jul 07:
-      topic: TBA
+      topic: Tokenization / segmentation
     Jul 09:
       topic: TBA
 - week: "12"
   dates:
     Jul 12:
-      topic: TBA
+      topic: POS Tagging & morphology
     Jul 14:
-      topic: TBA
+      topic: Text classification
     Jul 16:
       topic: TBA
 - week: "13"
   dates:
     Jul 19:
-      topic: TBA
+      topic: Statistical parsing
     Jul 21:
-      topic: TBA
+      topic: Statistical parsing
     Jul 23:
       topic: TBA
 - week: "14"
   dates:
     Jul 26:
-      topic: TBA
+      topic: Summary
     Jul 28:
-      topic: TBA
+      topic: Exam discussion / preparation
     Jul 30:
-      topic: TBA
+      topic: Exam
