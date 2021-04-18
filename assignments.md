@@ -9,14 +9,18 @@ and submit the assignments,
 you will need to access the private course repository
 at <https://github.com/snlp2021/snlp>,
 which you will gain access after completing
-the [first assignment](__coming soon__)
-If you cannot access the above URL (and if you are a student of this course)
+a short survey 
+on [the course Moodle page](https://moodle.zdv.uni-tuebingen.de/course/view.php?id=1645).
+If you cannot access the above ghthub URL
+(and if you are a student of this course)
 after the first week of the semester,
 please contact the instructor.
 
 # Assignments
 
-- [Assignment 0](__coming soon__): introduction, warm up
+- No 'assignment 0' this year.
+    Instead, please complete the survey
+    on [the course Moodle page](https://moodle.zdv.uni-tuebingen.de/course/view.php?id=1645)
 
 # Assignment policy
 
@@ -26,7 +30,6 @@ There will be 7 graded assignments, of which,
 6 assignments (with best scores) will count toward your final grade.
 Assignments can be done in pairs.
 However, the **same pair can work together only on a single assignment**.
-
 
 Assignments are only accepted through the GitHub repositories.
 No other form of submissions (e.g., email) are accepted.
