@@ -4,8 +4,12 @@
       topic: No class
     Apr 21:
       topic: Introduction, organization
+      links:
+        slides: slides/introduction.pdf
     Apr 23:
       topic: Math preliminaries
+      links:
+        slides: slides/math-refresher.pdf
 - week: "02"
   dates:
     Apr 26:
