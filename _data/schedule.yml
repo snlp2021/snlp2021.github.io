@@ -6,10 +6,13 @@
       topic: Introduction, organization
       links:
         slides: slides/introduction.pdf
+        handout: slides/introduction-handout.pdf
     Apr 23:
       topic: Math preliminaries
       links:
         slides: slides/math-refresher.pdf
+        handout: slides/math-refresher-handout.pdf
+        notes: notes/math-overview.pdf
 - week: "02"
   dates:
     Apr 26:
