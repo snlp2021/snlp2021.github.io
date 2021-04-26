@@ -16,11 +16,11 @@
 - week: "02"
   dates:
     Apr 26:
-      topic: Probability thory
+      topic: Probability theory
       links:
         slides: slides/probability-refresher.pdf
     Apr 28:
-      topic: Information thory
+      topic: Information theory
     Apr 30:
       topic: Machine learning intro
 - week: "03"
@@ -44,7 +44,7 @@
     May 17:
       topic: ML evaluation
     May 19:
-      topic: Interim sumamry
+      topic: Interim summary
     May 21:
       topic: TBA
 - week: ""
