@@ -17,6 +17,8 @@
   dates:
     Apr 26:
       topic: Probability thory
+      links:
+        slides: slides/probability-refresher.pdf
     Apr 28:
       topic: Information thory
     Apr 30:
