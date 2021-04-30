@@ -24,6 +24,7 @@
       topic: Probabilty theory
     Apr 30:
       topic: Information theory
+      links:
         slides: slides/information-theory.pdf
         handout: slides/information-theory-handout.pdf
 - week: "03"
