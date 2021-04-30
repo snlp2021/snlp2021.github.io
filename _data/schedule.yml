@@ -19,10 +19,13 @@
       topic: Probability theory
       links:
         slides: slides/probability-refresher.pdf
+        handout: slides/probability-refresher-handout.pdf
     Apr 28:
-      topic: Information theory
+      topic: Probabilty theory
     Apr 30:
-      topic: Machine learning intro
+      topic: Information theory
+        slides: slides/information-theory.pdf
+        handout: slides/information-theory-handout.pdf
 - week: "03"
   dates:
     May 03:
