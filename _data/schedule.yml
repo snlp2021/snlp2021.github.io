@@ -31,6 +31,9 @@
   dates:
     May 03:
       topic: ML intro
+      links:
+        slides: slides/ml-intro.pdf
+        handout: slides/ml-intro-handout.pdf
     May 05:
       topic: Classification
     May 07:
