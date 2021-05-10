@@ -42,8 +42,10 @@
   dates:
     May 10:
       topic: Classification
+      links:
+        slides: slides/classification.pdf
     May 12:
-      topic: ML evaluation
+      topic: Classification
     May 14:
       topic: TBA
 - week: "05"
