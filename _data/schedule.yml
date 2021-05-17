@@ -44,6 +44,7 @@
       topic: Classification
       links:
         slides: slides/classification.pdf
+        handout: slides/classification-handout.pdf
     May 12:
       topic: Classification
     May 14:
@@ -52,6 +53,9 @@
   dates:
     May 17:
       topic: ML evaluation
+      links:
+        slides: slides/ml-evaluation.pdf
+        handout: slides/ml-intro-evaluation.pdf
     May 19:
       topic: Interim summary
     May 21:
