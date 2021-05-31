@@ -69,6 +69,8 @@
   dates:
     May 31:
       topic: Artificial Neural Networks
+      links:
+        slides: slides/ml-evaluation.pdf
     Jun 02:
       topic: ANNs
     Jun 04:
