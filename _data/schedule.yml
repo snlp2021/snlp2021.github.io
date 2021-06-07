@@ -80,6 +80,8 @@
   dates:
     Jun 07:
       topic: Unsupervised ML
+      links:
+        slides: slides/unsupervised.pdf
     Jun 09:
       topic: Unsupervised ML
     Jun 11:
