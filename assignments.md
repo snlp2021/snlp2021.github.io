@@ -23,6 +23,7 @@ please contact the instructor.
     on [the course Moodle page](https://moodle.zdv.uni-tuebingen.de/course/view.php?id=1645)
 - [Assignment 1: corpus collection](https://snlp2021.github.io/a1)
 - [Assignment 2: regression](https://snlp2021.github.io/a2)
+- [Assignment 3: classification](https://snlp2021.github.io/a3)
 
 # Assignment policy
 
