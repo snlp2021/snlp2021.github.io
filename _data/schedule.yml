@@ -20,6 +20,7 @@
       links:
         slides: slides/probability-refresher.pdf
         handout: slides/probability-refresher-handout.pdf
+        notes: notes/probability-overview.pdf
     Apr 28:
       topic: Probabilty theory
     Apr 30:
@@ -27,6 +28,7 @@
       links:
         slides: slides/information-theory.pdf
         handout: slides/information-theory-handout.pdf
+        notes: notes/information-theory.pdf
 - week: "03"
   dates:
     May 03:
@@ -34,6 +36,7 @@
       links:
         slides: slides/ml-intro.pdf
         handout: slides/ml-intro-handout.pdf
+        notes: notes/ml-intro.pdf
     May 05:
       topic: Classification
     May 07:
@@ -45,6 +48,7 @@
       links:
         slides: slides/classification.pdf
         handout: slides/classification-handout.pdf
+        notes: notes/classification.pdf
     May 12:
       topic: Classification
     May 14:
@@ -55,7 +59,8 @@
       topic: ML evaluation
       links:
         slides: slides/ml-evaluation.pdf
-        handout: slides/ml-intro-evaluation.pdf
+        handout: slides/ml-evaluation-handout.pdf
+        notes: notes/ml-evaluation.pdf
     May 19:
       topic: Interim summary
     May 21:
@@ -72,6 +77,7 @@
       links:
         slides: slides/nn-intro.pdf
         handout: slides/nn-intro-handout.pdf
+        notes: notes/nn-intro.pdf
     Jun 02:
       topic: ANNs
     Jun 04:
@@ -83,6 +89,7 @@
       links:
         slides: slides/unsupervised.pdf
         handout: slides/unsupervised-handout.pdf
+        notes: notes/unsupervised.pdf
     Jun 09:
       topic: Unsupervised ML
     Jun 11:
