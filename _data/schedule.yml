@@ -97,9 +97,11 @@
 - week: "08"
   dates:
     Jun 14:
-      topic: Dense vector representations
+      topic: Unsupervised ML
     Jun 16:
-      topic: Sequence learning
+      topic: Dense vector representations
+      links:
+        slides: slides/dense-representations.pdf
     Jun 18:
       topic: TBA
 - week: "09"
