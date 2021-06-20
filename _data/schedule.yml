@@ -40,7 +40,7 @@
     May 05:
       topic: Classification
     May 07:
-      topic: TBA
+      topic: lab
 - week: "04"
   dates:
     May 10:
@@ -52,7 +52,7 @@
     May 12:
       topic: Classification
     May 14:
-      topic: TBA
+      topic: lab
 - week: "05"
   dates:
     May 17:
@@ -64,7 +64,7 @@
     May 19:
       topic: Interim summary
     May 21:
-      topic: TBA
+      topic: lab
 - week: ""
   dates:
     May 24: "semester break"
@@ -81,7 +81,7 @@
     Jun 02:
       topic: ANNs
     Jun 04:
-      topic: TBA
+      topic: lab
 - week: "07"
   dates:
     Jun 07:
@@ -93,7 +93,7 @@
     Jun 09:
       topic: Unsupervised ML
     Jun 11:
-      topic: TBA
+      topic: lab
 - week: "08"
   dates:
     Jun 14:
@@ -102,16 +102,20 @@
       topic: Dense vector representations
       links:
         slides: slides/dense-representations.pdf
+        handout: slides/dense-representations-handout.pdf
     Jun 18:
-      topic: TBA
+      topic: lab
 - week: "09"
   dates:
     Jun 21:
       topic: Sequence learning
+      links:
+        slides: slides/sequence-learning.pdf
+        handout: slides/sequence-learning-handout.pdf
     Jun 23:
       topic: Sequential ANNs
     Jun 25:
-      topic: TBA
+      topic: lab
 - week: "10"
   dates:
     Jun 28:
@@ -119,7 +123,7 @@
     Jun 30:
       topic: Language models
     Jul 02:
-      topic: TBA
+      topic: lab
 - week: "11"
   dates:
     Jul 05:
@@ -127,7 +131,7 @@
     Jul 07:
       topic: Tokenization / segmentation
     Jul 09:
-      topic: TBA
+      topic: lab
 - week: "12"
   dates:
     Jul 12:
@@ -135,7 +139,7 @@
     Jul 14:
       topic: Text classification
     Jul 16:
-      topic: TBA
+      topic: lab
 - week: "13"
   dates:
     Jul 19:
@@ -143,7 +147,7 @@
     Jul 21:
       topic: Statistical parsing
     Jul 23:
-      topic: TBA
+      topic: lab
 - week: "14"
   dates:
     Jul 26:
