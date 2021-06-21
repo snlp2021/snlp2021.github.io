@@ -24,6 +24,7 @@ please contact the instructor.
 - [Assignment 1: corpus collection](https://snlp2021.github.io/a1)
 - [Assignment 2: regression](https://snlp2021.github.io/a2)
 - [Assignment 3: classification](https://snlp2021.github.io/a3)
+- [Assignment 4: unsupervised learning](https://snlp2021.github.io/a4)
 
 # Assignment policy
 
