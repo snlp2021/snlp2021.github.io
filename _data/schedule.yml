@@ -113,37 +113,40 @@
         slides: slides/sequence-learning.pdf
         handout: slides/sequence-learning-handout.pdf
     Jun 23:
-      topic: Sequential ANNs
+      topic: Sequence learning
     Jun 25:
       topic: lab
 - week: "10"
   dates:
     Jun 28:
       topic: Sequential ANNs
+      links:
+        slides: slides/deep-networks.pdf
+        handout: slides/deep-networks-handout.pdf
     Jun 30:
-      topic: Language models
+      topic: Sequential ANNs
     Jul 02:
       topic: lab
 - week: "11"
   dates:
     Jul 05:
-      topic: Neural language models
+      topic: Language models
     Jul 07:
-      topic: Tokenization / segmentation
+      topic: Neural language models
     Jul 09:
       topic: lab
 - week: "12"
   dates:
     Jul 12:
-      topic: POS Tagging & morphology
+      topic: Tokenization / segmentation
     Jul 14:
-      topic: Text classification
+      topic: POS Tagging & morphology
     Jul 16:
       topic: lab
 - week: "13"
   dates:
     Jul 19:
-      topic: Statistical parsing
+      topic: Text classification
     Jul 21:
       topic: Statistical parsing
     Jul 23:
