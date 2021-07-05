@@ -25,6 +25,7 @@ please contact the instructor.
 - [Assignment 2: regression](https://snlp2021.github.io/a2)
 - [Assignment 3: classification](https://snlp2021.github.io/a3)
 - [Assignment 4: unsupervised learning](https://snlp2021.github.io/a4)
+- [Assignment 5: sequence labeling with RNNs](https://snlp2021.github.io/a5)
 
 # Assignment policy
 
