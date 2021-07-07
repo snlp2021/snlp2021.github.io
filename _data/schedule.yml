@@ -131,6 +131,8 @@
   dates:
     Jul 05:
       topic: Language models
+      links:
+        slides: slides/n-grams.pdf
     Jul 07:
       topic: Neural language models
     Jul 09:
