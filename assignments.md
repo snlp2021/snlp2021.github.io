@@ -26,6 +26,8 @@ please contact the instructor.
 - [Assignment 3: classification](https://snlp2021.github.io/a3)
 - [Assignment 4: unsupervised learning](https://snlp2021.github.io/a4)
 - [Assignment 5: sequence labeling with RNNs](https://snlp2021.github.io/a5)
+- [Assignment 6: Morphological inflection](https://snlp2021.github.io/a6)
+- [Assignment 7: Text classification](https://snlp2021.github.io/a7)
 
 # Assignment policy
 
