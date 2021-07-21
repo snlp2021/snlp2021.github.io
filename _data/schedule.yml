@@ -130,33 +130,37 @@
 - week: "11"
   dates:
     Jul 05:
+      topic: Sequential ANNs
+    Jul 07:
       topic: Language models
       links:
         slides: slides/n-grams.pdf
-    Jul 07:
-      topic: Neural language models
     Jul 09:
       topic: lab
 - week: "12"
   dates:
     Jul 12:
-      topic: Tokenization / segmentation
+      topic: Language models
     Jul 14:
-      topic: POS Tagging & morphology
+      topic: Language models / sequential RNNs
     Jul 16:
       topic: lab
 - week: "13"
   dates:
     Jul 19:
-      topic: Text classification
+      topic: Tokenization 
+      links:
+        slides: slides/tokenization.pdf
     Jul 21:
-      topic: Statistical parsing
+      topic: POS tagging and morphology
+      links:
+        slides: slides/pos-taging.pdf
     Jul 23:
       topic: lab
 - week: "14"
   dates:
     Jul 26:
-      topic: Summary
+      topic: Summary + Text classification (?)
     Jul 28:
       topic: Exam discussion / preparation
     Jul 30:
